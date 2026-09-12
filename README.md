@@ -119,7 +119,8 @@ Producto más vendido: Gaseosa 400ml (3 unidades)
 ## Estructura del repositorio
 
 ```
-MiniPOS/
+Sistema-gestor-de-ventas/
+├──GestorVentasUnidad1.csproj  # Archivo de configuración del proyecto
 ├── Program.cs   # Lógica completa del sistema
 └── README.md    # Este archivo
 ```
